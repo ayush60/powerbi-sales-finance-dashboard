@@ -60,9 +60,9 @@ business engagement, since this is a practice dataset, not live company data.
   while Enterprise shows a net loss (-0.61M)
 
 Screenshots / Demos
-![Dashboard Demo](screenshots/dashboard-demo.gif)
-![Finance Dashboard](screenshots/finance-dashboard.jpg)
-![Sales Waterfall](screenshots/waterfall-chart.jpg)
-![YOY Growth](screenshots/yoy-growth.jpg)
-![Bookmark Navigation](screenshots/bookmarks-navigation.jpg)
-![Conditional Formatting](screenshots/subcategory-table.jpg)
+![Dashboard Demo](https://github.com/ayush60/powerbi-sales-finance-dashboard/blob/main/Finance%20dashboard-demo.gif)
+![Finance Dashboard](https://github.com/ayush60/powerbi-sales-finance-dashboard/blob/main/Finance%20Dashboard.jpg)
+![Sales Waterfall](https://github.com/ayush60/powerbi-sales-finance-dashboard/blob/main/waterfall.jpg)
+![YOY Growth](https://github.com/ayush60/powerbi-sales-finance-dashboard/blob/main/Year%20and%20last%20year.jpg)
+![Bookmark Navigation](https://github.com/ayush60/powerbi-sales-finance-dashboard/blob/main/Bookmark.jpg)
+![Conditional Formatting](https://github.com/ayush60/powerbi-sales-finance-dashboard/blob/main/conditioal%20formatig.jpg)
